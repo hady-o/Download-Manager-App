@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_text_size">20sp</dimen>
+
+    <dimen name="rectUp">0dp </dimen>
+    <dimen name="rectLeft">0dp </dimen>
+    <dimen name="rectLoadUp">5dp </dimen>
+    <dimen name="rectLoadLeft">5dp </dimen>
+</resources>
