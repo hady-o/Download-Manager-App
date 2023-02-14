@@ -1,7 +1,19 @@
 # Download-Manager-App
+## About:
+An app to download a file from the Internet
 
-How App Looks Like
 
+
+
+## uses:
+1. Kotlin , XTML
+2. Notifications
+3. Custom Views
+4. Canvas Object
+5. Animations
+
+
+## How App Looks Like
 
 
 
